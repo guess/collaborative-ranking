@@ -1,5 +1,5 @@
 # Collaborative Ranking
-Implementation of Collaborative Ranking with 17 Parameters using the HetRec 2011 Last.FM dataset
+Implementation of "Collaborative Ranking with 17 Parameters"
 
 
 ## References
